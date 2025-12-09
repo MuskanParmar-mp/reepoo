@@ -2,8 +2,9 @@
 # b=20
 # print(a+b)
 
-i=1
-while i<=7:
-    print(i)
-    i=i+1
+
+list = ["m", "t","r"]
+list.append["y"]  
+print(list)
+  
 
