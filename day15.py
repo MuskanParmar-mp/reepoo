@@ -15,10 +15,38 @@ else:
 
 
 # negetive , positive and zero
-num = float(input("enter a num:"))
+'''num = float(input("enter a num:"))
 if num > 0:
     print("positive")
 elif num < 0:
     print("negetive")
 else:
-    print("zero")                
+    print("zero")'''
+
+
+
+'''num = int(input("Enter a number: "))
+
+if num > 1:
+    for i in range(2, num):
+        if num % i == 0:
+            print("Not a prime number")
+            break
+    else:
+        print("Prime number")
+else:
+    print("Not a prime number")'''
+
+
+
+
+n = 20
+i=1
+while i <= n:
+    print(i, end=" ")
+    i=i+1
+ 
+
+
+
+
