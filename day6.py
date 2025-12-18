@@ -5,3 +5,4 @@ name.append("kajal")
 name.extend("prachi")
 print(name)
  
+ 
