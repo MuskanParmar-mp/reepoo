@@ -5,4 +5,9 @@ name.append("kajal")
 name.extend("prachi")
 print(name)
  
- 
+
+
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
