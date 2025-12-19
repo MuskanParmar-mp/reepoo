@@ -5,6 +5,6 @@ for j in range(1,num+1):
     print()    
 
 
-number = 10
+number = 5
 if number > 0:
   print("The number is positive")
