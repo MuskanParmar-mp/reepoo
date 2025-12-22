@@ -1,3 +1,3 @@
 def  sq(n):
     return n*n
-print(sq(9))
+print(sq(2))
