@@ -7,7 +7,7 @@ print(name)
  
 
 
-a = 33
+a = 13
 b = 200
 if b > a:
   print("b is greater than a")
