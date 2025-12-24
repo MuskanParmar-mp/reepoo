@@ -4,7 +4,7 @@ def add(x,y):
 print(add(10,20))
 
 
-def sub(x,y):
-    return x-y
+def sub(a,b):
+    return a-b
 
-print(sub(9,10))
+print(sub(50,10))
