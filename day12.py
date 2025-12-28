@@ -7,4 +7,4 @@ print(add(10,20))
 def sub(a,b):
     return a-b
 
-print(sub(20,40))
+print(sub(10,40))
