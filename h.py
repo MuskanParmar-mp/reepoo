@@ -1,6 +1,6 @@
 def  sq(n):
     return n*n
-print(sq(3))
+print(sq(30))
 
 
 def  cube(n):
