@@ -1,4 +1,4 @@
-list = ["l", "t","r"]
+list = ["", "t","r"]
 list.sort()
 list.append("m")
 print(list)
