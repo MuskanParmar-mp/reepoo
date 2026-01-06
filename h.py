@@ -5,4 +5,4 @@ print(sq(30))
 
 def  cube(n):
     return n*n*n
-print(cube(83))
+print(cube(3))
