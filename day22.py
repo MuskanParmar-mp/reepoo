@@ -1,5 +1,5 @@
 def my_name():
-  print("muskan parmar")
+  print("muskanparmar")
 
 my_name()
 
