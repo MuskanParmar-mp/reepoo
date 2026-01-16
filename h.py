@@ -5,7 +5,7 @@ print(sq(90))
 
 def  cube(n):
     return n*n*n
-print(cube(0))
+print(cube(40))
 
 
 def addition(a,b):
