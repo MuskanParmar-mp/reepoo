@@ -10,4 +10,4 @@ print(cube(40))
 
 def addition(a,b):
     return a+b
-print(addition(88,20))
+print(addition(8,20))
