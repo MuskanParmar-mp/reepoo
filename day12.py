@@ -1,7 +1,7 @@
 def add(x,y):
     return x+y
 
-print(add(10,20))
+print(add(50,20))
 
 
 def sub(a,b):
