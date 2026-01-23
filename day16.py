@@ -1,6 +1,6 @@
 list = ["l", "t","r"]
 list.sort()
-list.append("m")
+list.append("u")
 print(list)
   
 
