@@ -5,11 +5,11 @@ for j in range(1,num+1):
     print()    
 
 
-number = 5
+number = 2
 if number < 0:
   print("The number is not positive")
 
 
-  number = 3
+number = 3
 if number < 0:
   print("The number is not positive")
