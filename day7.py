@@ -10,6 +10,6 @@ if number < 0:
   print("The number is not positive")
 
 
-number = 3
+number = 10
 if number < 0:
   print("The number is not positive")
