@@ -5,3 +5,8 @@ elif num < 0:
     print("negetive")
 else:
     print("zero")
+
+
+
+if 5 > 2:
+  print("Five is greater than two!")
