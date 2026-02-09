@@ -14,6 +14,6 @@ b = 20
 print(a + b)
 
 c = 7
-d = 8
+d = 1
 addition_result = c + d
 print(addition_result)
